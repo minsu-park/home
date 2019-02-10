@@ -27,7 +27,7 @@ const data = [
     + 'to identify and predict migration patterns; whether digital communications attenuate or echo the cultural, religious, and ethnic fault lines; '
     + 'and how cultural values affect the norm of non-verbal expressions like emoticons as well as '
     + 'the choice of cultural contents like online videos – to name just a few examples. We are particularly interested in '
-    + 'doing research on research on how cultural tastes, consumption preferences, and other individual interests spread across the globe.',
+    + 'doing research on how cultural tastes, consumption preferences, and other individual interests spread across the globe.',
   },
 ];
 
