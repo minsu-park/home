@@ -14,7 +14,7 @@ const Education = props => (
   <div className="education">
     <div className="link-to" id="education" />
     <div className="title">
-      <h3><br/>Education</h3>
+      <h3><br/><br/>Education</h3>
     </div>
     {getRows(props.data)}
   </div>

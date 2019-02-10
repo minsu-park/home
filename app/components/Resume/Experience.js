@@ -14,7 +14,7 @@ const Experience = props => (
   <div className="experience">
     <div className="link-to" id="experience" />
     <div className="title">
-      <h3>Experience</h3>
+      <h3><br/>Experience</h3>
     </div>
     {getRows(props.data)}
   </div>
