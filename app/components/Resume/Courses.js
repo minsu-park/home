@@ -8,7 +8,8 @@ const Courses = () => (
       <a href="https://minsu-park.github.io/CV_MinsuPark.pdf">
       <h3>Full CV</h3>
       </a>
-      See this full curriculum vitae for more details of my qualifications, employment experience, and publications.
+      <h5>See this full curriculum vitae for more details of <br/>
+      my qualifications, employment experience, and publications.</h5>
     </div>
   </div>
 );
