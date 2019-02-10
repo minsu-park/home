@@ -3,7 +3,7 @@ const data = [
   {
     title: 'Mood Management through External Stimuli',
     subtitle: 'Dissertation project',
-    link: '/projects/mood_music/',
+    link: '/home/projects/mood_music/',
     image: '/images/projects/mood_music.jpg',
     date: '2018-11-20',
     desc: 'The goal of this project is to advance our understanding of the psychological mechanisms behind mood management. '
@@ -18,7 +18,7 @@ const data = [
   {
     title: 'Big Data and Cross-cultural Behaviors',
     subtitle: 'Dissertation project',
-    link: '/projects/global_local/',
+    link: '/home/projects/global_local/',
     image: '/images/projects/global_local.png',
     date: '2018-11-20',
     desc: 'As new sources of digital data proliferate in the globe, there is the exciting possibility that '
