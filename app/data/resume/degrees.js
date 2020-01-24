@@ -1,7 +1,7 @@
 const degrees = [
   {
     school: 'Cornell University',
-    degree: 'Ph.D. Information Science (Expected)',
+    degree: 'Ph.D. Information Science',
     link: 'https://infosci.cornell.edu/',
     year: 2019,
   },
