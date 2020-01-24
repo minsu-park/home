@@ -21,7 +21,7 @@ const Nav = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Minsu. I like doing research on cultural consumption.
-         I am a PhD candidate at <a href="https://www.infosci.cornell.edu">Cornell InfoSci</a>.
+         I am a Research Fellow at <a href="https://www.kellogg.northwestern.edu/">Kellogg School of Management</a>.
       </p>
       <ul className="actions">
         <li>
