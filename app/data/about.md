@@ -6,6 +6,8 @@ I am a Research Fellow at [Kellogg School of Management](https://www.kellogg.nor
 
 My general areas of interest are computational social science and human-centered data science. I am particularly interested in applying computational techniques to understand the social and social psychological mechanisms that underlie how people construct meaning and consequently pursue action through cultural consumption behaviors. My research is deeply informed by insights from sociology and social computing. There are three strands to my work: 
 
+<br/>
+
 - understanding the relationship between social position and cultural taste at multiple levels of analysis (e.g., individual and cross-national);
 
 - modeling and analyzing the dynamics of preferences (e.g., daily and seasonal patterns of variety-seeking behaviors and affective preference as self-exposure to external stimuli such as music);
