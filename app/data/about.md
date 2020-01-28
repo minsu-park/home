@@ -1,6 +1,6 @@
 
 #### Welcome!
-I am a Research Fellow at [Kellogg School of Management](https://www.kellogg.northwestern.edu/) at [Northwestern University](https://www.northwestern.edu/) and a member of the [Center for Science of Science and Innovation](https://www.kellogg.northwestern.edu/research/science-of-science.aspx) and the [Northwestern Institute on Complex Systems](https://www.nico.northwestern.edu/). I earned my PhD in [Information Science](https://infosci.cornell.edu/) at [Cornell University](https://www.cornell.edu/), where I am very fortunate to be advised by [Michael W. Macy](https://sociology.cornell.edu/michael-macy) and [Mor Naaman](https://people.jacobs.cornell.edu/mor/).
+I am a Research Fellow at [Kellogg School of Management](https://www.kellogg.northwestern.edu/) at [Northwestern University](https://www.northwestern.edu/) and a member of the [Center for Science of Science and Innovation (CSSI)](https://www.kellogg.northwestern.edu/research/science-of-science.aspx) and the [Northwestern Institute on Complex Systems (NICO)](https://www.nico.northwestern.edu/). I earned my PhD in [Information Science](https://infosci.cornell.edu/) at [Cornell University](https://www.cornell.edu/), where I was very fortunate to be advised by [Michael W. Macy](https://sociology.cornell.edu/michael-macy) and [Mor Naaman](https://people.jacobs.cornell.edu/mor/).
 
 <br/>
 
