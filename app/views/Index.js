@@ -12,7 +12,9 @@ const Index = () => (
             <p> Welcome to my website. Here, I mainly share my up-to-date CV, including much details of my academic activities.
             Please feel free to read more <Link to="/about">about me</Link>,
             check out my {' '}
-            <Link to="/resume">resume</Link> {' '}
+            <Link to="/resume">resume</Link>,
+            {' '}
+            <Link to="/publications">publications</Link>,
             and {' '}
             <Link to="/projects">projects</Link>, {' '}
             or <Link to="/contact">contact</Link> me.

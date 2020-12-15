@@ -16,7 +16,9 @@ const validateText = (text) => {
 };
 
 const messages = [
-  'mp867',
+  'mp5500','minsu.park',
+  'mp5500','minsu.park',
+  'mp5500','minsu.park'
 ];
 
 const useInterval = (callback, delay) => {
@@ -38,8 +40,8 @@ const useInterval = (callback, delay) => {
 };
 
 const Contact = () => {
-  const hold = 50; // ticks to wait after message is complete before rendering next message
-  const delay = 50; // tick length in mS
+  const hold = 60; // ticks to wait after message is complete before rendering next message
+  const delay = 60; // tick length in mS
 
   const [idx, updateIter] = useState(0); // points to current message
   const [message, updateMessage] = useState(messages[idx]);
@@ -79,9 +81,9 @@ const Contact = () => {
             onMouseEnter={() => setIsActive(false)}
             onMouseLeave={() => (idx < messages.length) && setIsActive(true)}
           >
-            <a href={validateText(message) ? `mailto:${message}@cornell.edu` : ''}>
+            <a href={validateText(message) ? `mailto:${message}@nyu.edu` : ''}>
               <span>{message}</span>
-              <span>@cornell.edu</span>
+              <span>@nyu.edu</span>
             </a>
           </div>
         </div>
