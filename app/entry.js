@@ -9,6 +9,7 @@ import Index from './views/Index';
 import About from './views/About';
 import Projects from './views/Projects';
 import Resume from './views/Resume';
+import Publications from './views/Publications';
 import Stats from './views/Stats';
 import Contact from './views/Contact';
 
@@ -26,6 +27,7 @@ ReactDOM.render(
       <Route path="/stats" component={Stats} />
       <Route path="/contact" component={Contact} />
       <Route path="/resume" component={Resume} />
+      <Route path="/publications" component={Publications} />
       {/* Only useful in development mode */}
       <Route component={NotFound} status={404} />
     </Switch>

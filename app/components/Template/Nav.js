@@ -20,8 +20,8 @@ const Nav = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Minsu. I like doing research on cultural consumption.
-         I am a Research Fellow at <a href="https://www.kellogg.northwestern.edu/">Kellogg School of Management</a>.
+      <p>Hi, I&apos;m Minsu. I like doing research on cultural consumption and social networks.
+         I am an Assistant Professor of Social Research and Public Policy at <a href="https://nyuad.nyu.edu/en/">NYU Abu Dhabi</a>.
       </p>
       <ul className="actions">
         <li>
