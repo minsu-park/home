@@ -26,7 +26,7 @@ const data = [
     icon: faFacebook,
   },
   {
-    link: 'mailto:mp867@cornell.edu',
+    link: 'mailto:minsu.park@nyu.edu',
     label: 'Email',
     icon: faEnvelope,
   },
