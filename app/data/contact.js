@@ -16,7 +16,7 @@ const data = [
     icon: faGithub,
   },
   {
-    link: 'https://twitter.com/mansumansu',
+    link: 'https://twitter.com/likeateenspirit',
     label: 'Twitter',
     icon: faTwitter,
   },
