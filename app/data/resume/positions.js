@@ -12,7 +12,7 @@ const positions = [
     company: 'Spotify',
     position: 'Research Scientist Intern',
     link: 'https://labs.spotify.com/',
-    daterange: 'May 2017 - November 2017',
+    daterange: 'April 2017 - November 2017',
     points: [
       'Analyzed diurnal and seasonal patterns of music consumption.',
       'Developed a statistical model to identify collective anomalies in music consumption.',
