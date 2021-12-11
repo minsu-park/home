@@ -1,6 +1,6 @@
 ### Peer-reviewed Papers
 
-Harin Lee, Frank Höger, Marc Schoenwiesner, **Minsu Park**, and Nori Jacoby. Cross-cultural Mood Perception in Pop Songs and its Alignment with Mood Detection Algorithms. The 22nd International Society for Music Information Retrieval Conference (***ISMIR 2021***). [[PDF](https://github.com/minsu-park/minsu-park.github.io/blob/master/publications/cross-cultural_mood_perception_ismir_2021.pdf)] – <ins>Best Paper Honorable Mention</ins>
+Harin Lee, Frank Höger, Marc Schoenwiesner, **Minsu Park**, and Nori Jacoby. Cross-cultural Mood Perception in Pop Songs and Its Alignment with Mood Detection Algorithms. The 22nd International Society for Music Information Retrieval Conference (***ISMIR 2021***). [[PDF](https://github.com/minsu-park/minsu-park.github.io/blob/master/publications/cross-cultural_mood_perception_ismir_2021.pdf)] – <ins>Best Paper Honorable Mention</ins>
 
 Monica Lee, Amaç Herdağdelen, **Minsu Park**, and John Levi Martin. Measuring Mohr Social Capital. 2021. ***Poetics***. [[PDF](https://github.com/minsu-park/minsu-park.github.io/blob/master/publications/mohr_social_capital_poetics_2021.pdf)]
 
