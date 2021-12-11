@@ -1,5 +1,9 @@
 ### Peer-reviewed Papers
 
+Harin Lee, Frank Höger, Marc Schoenwiesner, **Minsu Park**, and Nori Jacoby. Cross-cultural Mood Perception in Pop Songs and its Alignment with Mood Detection Algorithms. The 22nd International Society for Music Information Retrieval Conference (***ISMIR 2021***). [[PDF](https://github.com/minsu-park/minsu-park.github.io/blob/master/publications/cross-cultural_mood_perception_ismir_2021.pdf)] – <ins>Best Paper Honorable Mention</ins>
+
+Monica Lee, Amaç Herdağdelen, **Minsu Park**, and John Levi Martin. Measuring Mohr Social Capital. 2021. ***Poetics***. [[PDF](https://github.com/minsu-park/minsu-park.github.io/blob/master/publications/mohr_social_capital_poetics_2021.pdf)]
+
 **Minsu Park**, Jennifer Thom, Sarah Mennicken, Henriette Cramer, and Michael Macy. Global Music
 Streaming Data Reveals Diurnal and Seasonal Patterns of Affective Preference. 2019. ***Nature Human
 Behaviour***. [[PDF](https://minsu-park.github.io/publications/affective_preference_nhb.pdf)] [Selected Media Coverage: [ArsTechnica](https://arstechnica.com/science/2019/01/spotify-data-shows-how-music-preferences-change-with-latitude/), [Scientific Inquirer](https://scientificinquirer.com/2019/05/14/conversation-with-minsu-park-michael-macy-mining-spotifys-treasure-trove-of-data-for-worldwide-listening-habits/), [The Cornell Daily Sun](https://cornellsun.com/2019/01/31/cornell-led-research-team-links-music-choice-to-weather-region-gender-and-age/), [DataBytes Podcast](https://databytespodcast.github.io/episode/2019/03/01/personality-test-spotify.html)]
