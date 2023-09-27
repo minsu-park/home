@@ -4,13 +4,13 @@ I am an Assistant Professor of [Social Research and Public Policy](https://nyuad
 
 <br/>
 
-My general areas of interest are computational social science and human-centered data science. I am particularly interested in applying computational techniques to understand the social and social psychological mechanisms that underlie how people construct meaning and consequently pursue action through cultural consumption behaviors. My research is deeply informed by insights from sociology and social computing. There are three strands to my work: 
+My general areas of interest are computational social science and human-centered data science. I develop and apply quantitative and computational methods to understand the social and social psychological mechanisms that underlie how people construct meaning and consequently pursue action, espeically through domains of creative work (e.g., music, food, fashion, and science). My research is deeply informed by insights from sociology and social computing. There are three strands to my work: 
 
 - understanding the relationship between social position and cultural taste at multiple levels of analysis (e.g., individual and cross-national);
 
 - modeling and analyzing the dynamics of preferences (e.g., daily and seasonal patterns of variety-seeking behaviors and affective preference as self-exposure to external stimuli such as music);
 
-- resolving common challenges in the use of social media data (e.g., imputing user attributes such as socioeconomic status) as well as improving the interpretability of machine learning models.
+- addressing prevalent challenges in the use of social media data (e.g., imputing user attributes such as socioeconomic status) as well as enhancing the interpretability of machine learning models.
 
 <!---
 #### News
@@ -23,5 +23,4 @@ My general areas of interest are computational social science and human-centered
 - Basketball
 - Arsenal Football Club
 - Brewing
-- Plants
-- Child development (very recently)
+- Planting
