@@ -1,6 +1,6 @@
 ### Peer-reviewed Papers
 
-Hazem Ibrahim, Fengyuan Liu, [many authors including **Minsu Park**], Talal Rahwan, and Yasir Zaki. Perception, Performance, and Detectability of Conversational Artificial Intelligence across 32 University Courses. 2023. ***Scientific Reports***. [[PDF](https://minsu-park.github.io/publications/chatgpt_homework_sci.rep_2023.pdf)]
+Hazem Ibrahim, Fengyuan Liu, \[many authors including **Minsu Park**\], Talal Rahwan, and Yasir Zaki. Perception, Performance, and Detectability of Conversational Artificial Intelligence across 32 University Courses. 2023. ***Scientific Reports***. [[PDF](https://minsu-park.github.io/publications/chatgpt_homework_sci.rep_2023.pdf)]
 
 **Minsu Park**, Chao Yu, and Michael Macy. Fighting bias with bias: How same-race endorsements reduce racial discrimination on Airbnb. 2023. ***Science Advances***. [[PDF](https://minsu-park.github.io/publications/fight_bias_with_bias_sa_2023.pdf)] [Selected Media Coverage: [EurekAlert!](https://www.eurekalert.org/news-releases/979253)] – <ins>Honorable Mention, Best Article Award, CITAMS (Communication, Information Technologies,
 and Media Sociology) Section, American Sociological Association</ins>
