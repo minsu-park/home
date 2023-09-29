@@ -8,7 +8,8 @@ import Header from '../components/Template/Header';
 import Nav from '../components/Template/Nav';
 
 if (process.env.NODE_ENV === 'production') {
-  ReactGA.initialize('UA-134171050-1');
+  //ReactGA.initialize('UA-134171050-1');
+  ReactGA.initialize('G-DBXWW2CFTG');
 }
 
 class Main extends Component {
