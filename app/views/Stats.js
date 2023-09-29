@@ -11,7 +11,7 @@ const Stats = () => (
   <Main>
     <Helmet title="Stats" />
     <article className="post" id="stats">
-      <header>
+      <header>      
         <div className="title">
           <h2><Link to="/stats">Stats</Link></h2>
         </div>

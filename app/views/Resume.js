@@ -27,7 +27,7 @@ const Resume = () => (
   <Main>
     <Helmet title="Resume" />
     <article className="post" id="resume">
-      <header>
+      <header>      
         <div className="title">
           <h2><Link to="resume">Resume</Link></h2>
           <div className="link-container">

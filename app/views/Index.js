@@ -21,7 +21,6 @@ const Index = () => (
             </p>
         </div>
       </header>
-      
     </article>
   </Main>
 );

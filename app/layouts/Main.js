@@ -3,13 +3,14 @@ import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 
 import ReactGA from 'react-ga';
+//import ReactGA from 'react-ga4';
 
 import Header from '../components/Template/Header';
 import Nav from '../components/Template/Nav';
 
 if (process.env.NODE_ENV === 'production') {
-  //ReactGA.initialize('UA-134171050-1');
-  ReactGA.initialize('G-DBXWW2CFTG');
+  ReactGA.initialize('UA-134171050-1');
+  //ReactGA.initialize('G-DBXWW2CFTG');
 }
 
 class Main extends Component {
