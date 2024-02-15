@@ -24,6 +24,7 @@ class Main extends Component {
         page: window.location.pathname,
       });
       //ReactGA.pageview(window.location.pathname);
+      ReactGA.send("pageview")
     }
   }
 
@@ -34,9 +35,9 @@ class Main extends Component {
         <Header />
         <div id="main">
           {this.props.children}
-        </div>
+        <\/div>
         {!this.props.fullPage && <Nav />}
-      </div>);
+      <\/div>);
   }
 }
 
