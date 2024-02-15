@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 
-import ReactGA from 'react-ga';
-//import ReactGA from 'react-ga4';
+//import ReactGA from 'react-ga';
+import ReactGA from 'react-ga4';
 
 import Header from '../components/Template/Header';
 import Nav from '../components/Template/Nav';
