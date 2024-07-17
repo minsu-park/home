@@ -2,10 +2,9 @@
 
 Hazem Ibrahim, Fengyuan Liu, \[many authors including **Minsu Park**\], Talal Rahwan, and Yasir Zaki. Perception, Performance, and Detectability of Conversational Artificial Intelligence across 32 University Courses. 2023. ***Scientific Reports***. [[PDF](https://minsu-park.github.io/publications/chatgpt_homework_sci.rep_2023.pdf)]
 
-**Minsu Park**, Chao Yu, and Michael Macy. Fighting bias with bias: How same-race endorsements reduce racial discrimination on Airbnb. 2023. ***Science Advances***. [[PDF](https://minsu-park.github.io/publications/fight_bias_with_bias_sa_2023.pdf)] [Selected Media Coverage: [EurekAlert!](https://www.eurekalert.org/news-releases/979253)] – <ins>Honorable Mention, Best Article Award, CITAMS (Communication, Information Technologies,
-and Media Sociology) Section, American Sociological Association</ins>
+**Minsu Park**, Chao Yu, and Michael Macy. Fighting bias with bias: How same-race endorsements reduce racial discrimination on Airbnb. 2023. ***Science Advances***. [[PDF](https://minsu-park.github.io/publications/fight_bias_with_bias_sa_2023.pdf)] [Selected Media Coverage: [EurekAlert!](https://www.eurekalert.org/news-releases/979253)] – <ins>Honorable Mentions for Best Article Awards from American Sociological Association (ASA) sections on CITAMS (Communication, Information Technologies, and Media Sociology) and DMSNS (Decision-Making, Social Networks, and Society)</ins>
 
-Harin Lee, Frank Höger, Marc Schoenwiesner, **Minsu Park**, and Nori Jacoby. Cross-cultural Mood Perception in Pop Songs and Its Alignment with Mood Detection Algorithms. The 22nd International Society for Music Information Retrieval Conference (***ISMIR 2021***). [[PDF](https://minsu-park.github.io/publications/cross-cultural_mood_perception_ismir_2021.pdf)] – <ins>Best Paper Honorable Mention (Top 3%)</ins>
+Harin Lee, Frank Höger, Marc Schoenwiesner, **Minsu Park**, and Nori Jacoby. Cross-cultural Mood Perception in Pop Songs and Its Alignment with Mood Detection Algorithms. The 22nd International Society for Music Information Retrieval Conference (***ISMIR 2021***). [[PDF](https://minsu-park.github.io/publications/cross-cultural_mood_perception_ismir_2021.pdf)] – <ins>Honorable Mention for Best Paper Award (Top 3%)</ins>
 
 Monica Lee, Amaç Herdağdelen, **Minsu Park**, and John Levi Martin. Measuring Mohr Social Capital. 2021. ***Poetics***. [[PDF](https://minsu-park.github.io/publications/mohr_social_capital_poetics_2021.pdf)]
 
