@@ -1,5 +1,9 @@
 ### Peer-reviewed Papers
 
+Pratik Kayal, Pascal Mettes, Nima Dehmamy, and **Minsu Park**. Large Language Models Are Natural Video Popularity Predictors. The 63rd Annual Meeting of the Association for Computational Linguistics (Findings of ***ACL 2025***). [[PDF](https://minsu-park.github.io/publications/llm_popularity_predictor_acl_2025.pdf)]
+
+Harin Lee, Eline Van Geert, Elif Celen, Raja Marjieh, Pol van Rijn, **Minsu Park**, and Nori Jacoby. Visual and Auditory Aesthetic Preferences Across Cultures. The 44th Annual Conference of the Cognitive Science Society (***CogSci 2025***). [[PDF](https://minsu-park.github.io/publications/aesthetic_preferences_cogsci_2025.pdf)]
+
 Hazem Ibrahim, Fengyuan Liu, \[many authors including **Minsu Park**\], Talal Rahwan, and Yasir Zaki. Perception, Performance, and Detectability of Conversational Artificial Intelligence across 32 University Courses. 2023. ***Scientific Reports***. [[PDF](https://minsu-park.github.io/publications/chatgpt_homework_sci.rep_2023.pdf)]
 
 **Minsu Park**, Chao Yu, and Michael Macy. Fighting bias with bias: How same-race endorsements reduce racial discrimination on Airbnb. 2023. ***Science Advances***. [[PDF](https://minsu-park.github.io/publications/fight_bias_with_bias_sa_2023.pdf)] [Selected Media Coverage: [EurekAlert!](https://www.eurekalert.org/news-releases/979253)] – <ins>Honorable Mentions for Best Article Awards from American Sociological Association (ASA) sections on CITAMS (Communication, Information Technologies, and Media Sociology) and DMSNS (Decision-Making, Social Networks, and Society)</ins>
