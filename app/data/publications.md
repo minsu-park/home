@@ -1,5 +1,11 @@
 ### Peer-reviewed Papers
 
+**Minsu Park**, Suman Kalyan Maity, Stefan Wuchty, and Dashun Wang. Interdisciplinary PapersSupported by Disciplinary Grants Garner Deep and Broad Scientific Impact. 2026. ***PNAS Nexus***. [[PDF](https://minsu-park.github.io/publications/deep-broad-impact_interdisciplinary-research_pnasnexus_2026.pdf)]
+
+**Minsu Park**, Jaehyuk Park, Fabio Rojas, and Yong-Yeol Ahn. Rap as a Social Reflection: AQuantitative Analysis of Social Conditions and Lyrical Expressions. 2026. ***EPJ Data Science***. [[PDF](https://minsu-park.github.io/publications/rap-as-social-reflection_epjds_2026.pdf)]
+
+Safal Shrestha, Yeonie Heo, Alexander TJ Barron, and **Minsu Park**. Scene-level Movie Datafrom Amazon X-Ray in the US Market Combined with IMDb. 2026. ***Scientific Data***. [[PDF](https://minsu-park.github.io/publications/x-ray_scidata_2026.pdf)]
+
 Harin Lee, Elif Çelen, Peter Harrison, Manuel Anglada-Tort, Pol van Rijn, **Minsu Park**, Marc Schönwiesner, and Nori Jacoby. GlobalMood: A cross-cultural benchmark for music emotion recognition. The 26th International Society for Music Information Retrieval Conference (***ISMIR 2025***). [[PDF](https://minsu-park.github.io/publications/global-mood_ismir_2025.pdf)] – <ins>Best Student Paper Award</ins>
 
 Pratik Kayal, Pascal Mettes, Nima Dehmamy, and **Minsu Park**. Large Language Models Are Natural Video Popularity Predictors. The 63rd Annual Meeting of the Association for Computational Linguistics (Findings of ***ACL 2025***). [[PDF](https://minsu-park.github.io/publications/llm_popularity_predictor_acl_2025.pdf)]
